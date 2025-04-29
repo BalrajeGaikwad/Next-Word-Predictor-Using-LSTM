@@ -33,5 +33,6 @@ Note: Predictions improve with larger datasets and more training epochs.
 - Train on larger, domain-specific corpora for improved results.
 - Add temperature sampling to generate more diverse text outputs.
 - Extend the model to generate full sentences (text generation).
+- This is LSTM Example 
 
 
